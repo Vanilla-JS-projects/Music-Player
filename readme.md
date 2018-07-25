@@ -1,6 +1,6 @@
 @ http://music_player.surge.sh/
 
-It's is a beautiful music player(more of a cassette) created by me. It has 7 songs loaded in. Illustration and icons are created by me.
+An old style music player. It has 7 songs loaded in. Illustration and icons are created by me.
 
 Includes functions like:
 
